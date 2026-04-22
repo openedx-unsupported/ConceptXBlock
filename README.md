@@ -1,3 +1,17 @@
+![Status](https://img.shields.io/badge/status-archived-red)
+
+
+> ⚠️ Repository Archived ⚠️
+> =========================
+>
+> This repository is archived and no longer maintained.
+>
+> Please refer to the [upstream repository](https://github.com/pmitros/ConceptXBlock) directly. No further development or support will be provided here.
+> 
+> See the migration discussion: [openedx/xblocks-extra#7](https://github.com/openedx/xblocks-extra/issues/5).
+>
+> **Note:** This fork is many commits ahead of the upstream repository; feel free to push to upstream if required.
+
 ConceptXBlock
 ===========
 
