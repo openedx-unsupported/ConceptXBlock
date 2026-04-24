@@ -6,7 +6,7 @@
 >
 > This repository is archived and no longer maintained.
 >
-> Please refer to the [upstream repository](https://github.com/pmitros/ConceptXBlock) directly. No further development or support will be provided here.
+> No further development or support will be provided here.
 > 
 > See the migration discussion: [openedx/xblocks-extra#7](https://github.com/openedx/xblocks-extra/issues/5).
 >
